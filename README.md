@@ -155,7 +155,7 @@ If you identify a hardware-specific issue and are able to investigate or impleme
 ## Licensing
 
 RareInjector is distributed under the GPLv3 License.
-See `LICENSE.md` for the complete licence text.
+See `LICENSE` for the complete licence text.
 Third-party dependencies and user-provided replacement assets may be subject to their own licensing terms.
 Users are responsible for ensuring that their use and distribution of replacement assets complies with applicable licences and copyright law.
 
