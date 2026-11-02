@@ -163,6 +163,14 @@ Users are responsible for ensuring that their use and distribution of replacemen
 
 See `Supported.md` for what games have been tested and on what graphics API.
 
+## Packaging
+
+You have explicit permission to package it for whatever distribution or BSD you'd like, from Nix to Arch to even a flatpak if you want to. We're not maintaining the packages, but we are upstream and none of the dependencies needed for this require anything distro-dependent or a specific init system. We do provide an appimage!
+
+## Building
+
+tbd since we're changing tools every day it seems like ;w; again, 15th!!!!! big announcement!!!!!!!!
+
 ---
 
 *RareInjector is an independent project. Compatibility, supported hardware, and feature availability are subject to change as development progresses.*
