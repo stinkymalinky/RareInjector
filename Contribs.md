@@ -1,2 +1,2 @@
-stinkymalinky // Sora -- Most of the project
-N. Evarine // of nomandible -- Help with a little C code here and there :)
+--stinkymalinky // Sora -- Most of the project
+--N. Evarine // of nomandible -- Help with a little C code here and there :)
